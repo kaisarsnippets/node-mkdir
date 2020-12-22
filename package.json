@@ -1,0 +1,21 @@
+{
+  "name": "kc-mkdir",
+  "version": "1.0.2",
+  "description": "[nodejs] fs.mkdirSync wrapper.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/node-mkdir.git"
+  },
+  "keywords": [
+    "file",
+    "read",
+    "sync"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/node-mkdir/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/node-mkdir"
+}
