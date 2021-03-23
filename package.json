@@ -1,6 +1,6 @@
 {
   "name": "kc-mkdir",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[nodejs] fs.mkdirSync wrapper.",
   "main": "index.js",
   "repository": {
